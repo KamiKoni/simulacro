@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin RestorApp",
+      "email": "admin@restor.app",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Usuario Demo",
+      "email": "user@restor.app",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "Hamburguesa Clásica",
+      "price": 12.99,
+      "category": "Hamburguesas",
+      "description": "Jugosa hamburguesa con queso, lechuga y tomate"
+    },
+    {
+      "id": 2,
+      "name": "Hamburguesa BBQ",
+      "price": 14.99,
+      "category": "Hamburguesas",
+      "description": "Con salsa BBQ, cebolla caramelizada y tocino"
+    },
+    {
+      "id": 3,
+      "name": "Hamburguesa Vegetariana",
+      "price": 11.99,
+      "category": "Hamburguesas",
+      "description": "Hamburguesa de lentejas con vegetales frescos"
+    },
+    {
+      "id": 4,
+      "name": "Pizza Margherita",
+      "price": 15.99,
+      "category": "Pizzas",
+      "description": "Salsa de tomate, mozzarella y albahaca fresca"
+    },
+    {
+      "id": 5,
+      "name": "Pizza Pepperoni",
+      "price": 17.99,
+      "category": "Pizzas",
+      "description": "Con abundante pepperoni y queso mozzarella"
+    },
+    {
+      "id": 6,
+      "name": "Pizza Hawaiana",
+      "price": 16.99,
+      "category": "Pizzas",
+      "description": "Jamón, piña y queso mozzarella"
+    },
+    {
+      "id": 7,
+      "name": "Pasta Carbonara",
+      "price": 13.99,
+      "category": "Pastas",
+      "description": "Pasta con salsa cremosa, tocino y parmesano"
+    },
+    {
+      "id": 8,
+      "name": "Pasta Bolognesa",
+      "price": 14.99,
+      "category": "Pastas",
+      "description": "Pasta con salsa de carne tradicional italiana"
+    },
+    {
+      "id": 9,
+      "name": "Ensalada César",
+      "price": 9.99,
+      "category": "Ensaladas",
+      "description": "Lechuga romana, crutones, parmesano y aderezo césar"
+    },
+    {
+      "id": 10,
+      "name": "Ensalada Mixta",
+      "price": 8.99,
+      "category": "Ensaladas",
+      "description": "Variedad de vegetales frescos con vinagreta"
+    },
+    {
+      "id": 11,
+      "name": "Coca Cola",
+      "price": 2.99,
+      "category": "Bebidas",
+      "description": "Refresco de cola 500ml"
+    },
+    {
+      "id": 12,
+      "name": "Jugo Natural",
+      "price": 3.99,
+      "category": "Bebidas",
+      "description": "Jugo natural de frutas frescas"
+    },
+    {
+      "id": 13,
+      "name": "Agua Mineral",
+      "price": 1.99,
+      "category": "Bebidas",
+      "description": "Agua mineral sin gas 500ml"
+    },
+    {
+      "id": 14,
+      "name": "Brownie",
+      "price": 5.99,
+      "category": "Postres",
+      "description": "Brownie de chocolate con nueces"
+    },
+    {
+      "id": 15,
+      "name": "Cheesecake",
+      "price": 6.99,
+      "category": "Postres",
+      "description": "Tarta de queso con coulis de frutos rojos"
+    }
+  ],
+  "orders": []
+}

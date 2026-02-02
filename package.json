@@ -1,0 +1,26 @@
+{
+  "name": "restor-app-spa",
+  "version": "1.0.0",
+  "description": "RestorApp - Sistema de Gestión de Pedidos con Vite y JSON Server",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "vite",
+    "server": "json-server --watch db.json --port 3001",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "restaurant",
+    "orders",
+    "spa",
+    "vite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "json-server": "^0.17.4",
+    "concurrently": "^8.2.2"
+  }
+}
